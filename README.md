@@ -18,8 +18,9 @@ Learning material for web development with accessibility top of mind.
 
 1. [Accessibility: Where to start?](https://www.youtube.com/watch?v=byh6G3vViWM) (added 2021-05-05)
 2. [Creating an Accessibility Engineering Practice](https://blog.danielna.com/creating-an-accessibility-engineering-practice/) (added: 2021-05-05)
-3. [Introduction to Web Accessibility] (https://webaim.org/intro/) (added: 2021-05-05)
+3. [Introduction to Web Accessibility](https://webaim.org/intro/) (added: 2021-05-05)
 
+- https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree (added: 2021-05-05)
 - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ (added 2021-05-05)
 - https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality (added 2021-05-05)
 - https://inclusivedesignprinciples.org/ (added 2021-05-05)
