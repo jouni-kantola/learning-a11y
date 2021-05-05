@@ -5,9 +5,10 @@ Learning material for web development with accessibility top of mind.
 ## Goals
 
 1. A button does things, a link takes you places
-2. Browse a page with NVDA and/or VoiceOver
-3. Develop a custom select
-4. Develop a popup menu
+2. Experiment: Instead of powering smoke tests via XPath and CSS selectors, use the a11y tree (or tab navigation)
+3. Browse a page with NVDA and/or VoiceOver
+4. Develop a custom select
+5. Develop a popup menu
 
 ## Tutorials
 
