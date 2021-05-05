@@ -51,4 +51,4 @@ Learning material for web development with accessibility top of mind.
 1. 2021-05-03: Find study material. Only briefly browsed through.
 2. 2021-05-03: Watched presentation about Getting Started with #a11y: https://www.youtube.com/watch?v=byh6G3vViWM
 3. 2021-05-05: Goal 1-4 defined
-
+4. 2021-05-05: Read https://blog.danielna.com/creating-an-accessibility-engineering-practice/. It's a keeper 👍
