@@ -34,6 +34,7 @@ This repo is meant as learning material for web development with accessibility t
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility (added 2021-05-05)
 - https://www.w3.org/WAI/fundamentals/ (added 2021-05-05)
 - https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g (added 2021-05-05)
+- https://ux.shopify.com/make-commerce-better-for-everyone-b96f0621ddf3 (added: 2021-05-10)
 
 ## Reference material
 
