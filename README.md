@@ -1,6 +1,8 @@
 # Web Accessibility
 
-Learning material for web development with accessibility top of mind.
+Web accessibility tends to be implemented as an afterthought after audits, because of ignorance rather than ill will. a11y should be seen as a basic requirement. Don't exclude people.
+
+This repo is meant as learning material for web development with accessibility top of mind.
 
 ## Goals
 
@@ -39,12 +41,30 @@ Learning material for web development with accessibility top of mind.
 - https://inclusive-components.design/ (added: 2021-05-05)
 - https://pattern-library.dequelabs.com/ (added: 2021-05-05)
 - https://www.w3.org/TR/wai-aria-practices-1.1/ (added: 2021-05-05)
+- https://w3c.github.io/html-aria/ (added: 2021-05-10)
+- https://ebay.gitbook.io/mindpatterns/ (added: 2021-05-10)
 
 ## Q & A
 
 | Question | Answer |
 | - | - |
-| Why the name a11y? | a11y is a numeronym (words replaced with numbers).|
+| Why the name a11y? | a11y is a numeronym (words replaced with numbers), in which the word "accessibility" has 11 characters between first and last letter. |
+| What is AT? | Acronym of Assistive Technologies; broad range of automation tooling built for people with disabilities to use software. |
+| What is a11y tree? | The a11y tree is an interface representing markup's semantics. Its nodes exposes meaning for Assistive Technologies (AT) to consume. |
+| Why semantic HTML? | Specified behavior and associations between elements cannot be interpreted by AT if visuals used to describe meaning. |
+| What's the acronym ARIA? | Accessible Rich Internet Applications. |
+| What's the use case for ARIA? | Set of HTML attributes to directly and intentionally adapt the a11y tree, like hiding or manipulate meaning. |
+| What's a screen reader? | An operative level tool that explains content to users |
+
+## Accessibility checks
+
+- Does a control semantically represent what it's used for?
+- Which actual element has focus when a control is highlighted? Is it directly interactable?
+
+## Tools
+
+- a11y tree in Edge/Chrome's DevTools: `CTRL+SHIFT+P` then search for _Show Accessibility_
+- axe DevTools: Accessibility Checker browser plugin
 
 ## Log
 
@@ -52,3 +72,4 @@ Learning material for web development with accessibility top of mind.
 2. 2021-05-03: Watched presentation about Getting Started with #a11y: https://www.youtube.com/watch?v=byh6G3vViWM
 3. 2021-05-05: Goal 1-4 defined
 4. 2021-05-05: Read https://blog.danielna.com/creating-an-accessibility-engineering-practice/. It's a keeper 👍
+5. 2021-05-10: Notes from last session
