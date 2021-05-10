@@ -1,6 +1,6 @@
 # Web Accessibility
 
-Web accessibility tends to be implemented as an afterthought after audits, because of ignorance rather than ill will. a11y should be seen as a basic requirement. Don't exclude people.
+Web accessibility tends to be implemented as an afterthought after audits, because of ignorance rather than ill will. a11y should be seen as a basic requirement, we currently are lacking awareness for. Don't exclude people. Start removing physical and/or cognitive barriers people have with software.
 
 This repo is meant as learning material for web development with accessibility top of mind.
 
@@ -22,6 +22,7 @@ This repo is meant as learning material for web development with accessibility t
 1. [Accessibility: Where to start?](https://www.youtube.com/watch?v=byh6G3vViWM) (added 2021-05-05)
 2. [Creating an Accessibility Engineering Practice](https://blog.danielna.com/creating-an-accessibility-engineering-practice/) (added: 2021-05-05)
 3. [Introduction to Web Accessibility](https://webaim.org/intro/) (added: 2021-05-05)
+4. [Constructing a POUR Website](https://webaim.org/articles/pour/) (added: 2021-05-10)
 
 - https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree (added: 2021-05-05)
 - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ (added 2021-05-05)
@@ -57,6 +58,20 @@ This repo is meant as learning material for web development with accessibility t
 | What's the use case for ARIA? | Set of HTML attributes to directly and intentionally adapt the a11y tree, like hiding or manipulate meaning. |
 | What's a screen reader? | An operative level tool that explains content to users |
 
+## Be helpful
+
+The web offer **independent access** to information. Instead of seeing a11y as a feature, design for everyone. Simple navigation, helpful illustrations and logically organized content increase usability for all users.
+
+### POUR website
+
+- Perceivable (P)
+
+  Anyone should be able to input information into their brain for further processing. If they can't, the information is inaccessible.
+
+- Operable (O)
+- Understandable (U)
+- Robust (R)
+
 ## Accessibility checks
 
 - Does a control semantically represent what it's used for?
@@ -74,3 +89,4 @@ This repo is meant as learning material for web development with accessibility t
 3. 2021-05-05: Goal 1-4 defined
 4. 2021-05-05: Read https://blog.danielna.com/creating-an-accessibility-engineering-practice/. It's a keeper 👍
 5. 2021-05-10: Notes from last session
+6. 2021-05-10: Start describing a POUR website
