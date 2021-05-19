@@ -103,3 +103,4 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 4. 2021-05-05: Read https://blog.danielna.com/creating-an-accessibility-engineering-practice/. It's a keeper 👍
 5. 2021-05-10: Notes from last session
 6. 2021-05-10: Start describing a POUR website
+7. 2021-05-19: POUR principles described
