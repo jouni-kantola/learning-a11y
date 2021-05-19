@@ -66,11 +66,23 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 
 - Perceivable (P)
 
-  Anyone should be able to input information into their brain for further processing. If they can't, the information is inaccessible.
+  Anyone should be able to input information into their brain for further processing. If they can't, the information is inaccessible. In practice, content should be communicate its message with styling disabled.
 
 - Operable (O)
+
+  Don't expect everyone to use the same input device as you to navigate the web. As a rule of thumb, make the page usable with only a keyboard, as most alternative devices emulate a keyboard's functionality.
+
+  Don't expect others to navigate the way you are. Often overviewing and quick navigation through content is supported.
+
+  Don't commit changes without confirmation, if recovery isn't easy. Include instructions and expect mistakes. For cognitive purposes, make animations optional.
+
 - Understandable (U)
+
+  Don't separate usability and accessibility. Use simple and concise language, adapted to users and intention. Be consistent and predictable in interactions.
+
 - Robust (R)
+
+  Validate HTML! Sticking to standards is a safe bet for robustness. Aim to not require specific browsers or devices. At least, use a baseline, where sacrifices in functionality is thought through when using browsers with less capabilities.
 
 ## Accessibility checks
 
@@ -79,6 +91,7 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 
 ## Tools
 
+- [The W3C Markup Validation Service](https://validator.w3.org/)
 - a11y tree in Edge/Chrome's DevTools: `CTRL+SHIFT+P` then search for _Show Accessibility_
 - axe DevTools: Accessibility Checker browser plugin
 
