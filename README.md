@@ -88,8 +88,11 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 
 ## Accessibility checks
 
-- Does a control semantically represent what it's used for?
+- Does a control semantically represent what it's used for? Favor using native elements, and use them as fallback in rich components. Don't override the semantics of native elements.
 - Which actual element has focus when a control is highlighted? Is it directly interactable?
+- Can the whole application be controlled using keyboard, including [rich components](https://www.w3.org/TR/aria-in-html/#3rdrule)?
+- Check that `<a>` is used in navigation and `<button>` for updating state.
+- Are all images using `alt` attributes? Valuable when content not loading properly. For purely decorative images, use empty `alt`.
 
 ## Tools
 
@@ -109,3 +112,4 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 8. 2021-05-24: Performed first accessibility audit
 9. 2021-05-24: Built breadcrumb component based on https://www.w3.org/TR/wai-aria-practices-1.1/examples/breadcrumb/index.html
 10. 2021-06-03: Improved description for assistive technologies and accessibility tree
+11. 2021-06-03: Reading list web development basics documented as accessibility checks
