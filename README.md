@@ -24,7 +24,6 @@ This repo is meant as learning material for web development with accessibility t
 3. [Introduction to Web Accessibility](https://webaim.org/intro/) (added: 2021-05-05)
 4. [Constructing a POUR Website](https://webaim.org/articles/pour/) (added: 2021-05-10)
 
-- https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree (added: 2021-05-05)
 - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ (added 2021-05-05)
 - https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality (added 2021-05-05)
 - https://inclusivedesignprinciples.org/ (added 2021-05-05)
@@ -54,8 +53,8 @@ This repo is meant as learning material for web development with accessibility t
 | Question | Answer |
 | - | - |
 | Why the name a11y? | a11y is a numeronym (words replaced with numbers), in which the word "accessibility" has 11 characters between first and last letter. |
-| What is AT? | Acronym of Assistive Technologies; broad range of automation tooling built for people with disabilities to use software. |
-| What is a11y tree? | The a11y tree is an interface representing markup's semantics. Its nodes exposes meaning for Assistive Technologies (AT) to consume. |
+| What is AT? | Acronym of Assistive Technologies; broad range of automation tooling built for people with disabilities to use software. Use accessibility tree to create alternate user interface. AT relays user interactions via APIs to the browser for translation into application actions. |
+| What is a11y tree? | The accessibility tree exposes an interface representing a UI's meaning and associations between nodes. |
 | Why semantic HTML? | Specified behavior and associations between elements cannot be interpreted by AT if visuals used to describe meaning. |
 | What's the acronym ARIA? | Accessible Rich Internet Applications. |
 | What's the use case for ARIA? | Set of HTML attributes to directly and intentionally adapt the a11y tree, like hiding or manipulate meaning. |
@@ -109,3 +108,4 @@ The web offer **independent access** to information. Instead of seeing a11y as a
 7. 2021-05-19: POUR principles described
 8. 2021-05-24: Performed first accessibility audit
 9. 2021-05-24: Built breadcrumb component based on https://www.w3.org/TR/wai-aria-practices-1.1/examples/breadcrumb/index.html
+10. 2021-06-03: Improved description for assistive technologies and accessibility tree
