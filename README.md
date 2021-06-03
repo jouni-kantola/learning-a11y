@@ -37,12 +37,15 @@ This repo is meant as learning material for web development with accessibility t
 - https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g (added 2021-05-05)
 - https://ux.shopify.com/make-commerce-better-for-everyone-b96f0621ddf3 (added: 2021-05-10)
 
+## Component examples
+
+- [Example implementations of ARIA design patterns](https://www.w3.org/TR/wai-aria-practices-1.1/examples/) (added: 2021-05-05)
+
 ## Reference material
 
 - https://empathyprompts.net/ (added: 2021-05-05)
 - https://inclusive-components.design/ (added: 2021-05-05)
 - https://pattern-library.dequelabs.com/ (added: 2021-05-05)
-- https://www.w3.org/TR/wai-aria-practices-1.1/ (added: 2021-05-05)
 - https://w3c.github.io/html-aria/ (added: 2021-05-10)
 - https://ebay.gitbook.io/mindpatterns/ (added: 2021-05-10)
 
